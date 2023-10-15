@@ -7,15 +7,15 @@
 
 
 ##  🤝🏻 Connect with Us  
-* [`📧 G-Mail`](brokebros404@gmail.com)   
-* [`Discord-id1`]( discordapp.com/users/appu#3417)    
-* [`Discord-id2`]( discordapp.com/users/bharat#9614)    
-* [`GitHub`]( https://github.com/brokebros404)
+* [`📧 G-Mail`](mailto:brokebros404@gmail.com)   
+* [`Discord-id1`](https://www.discordapp.com/users/appu#3417)    
+* [`Discord-id2`](https://www.discordapp.com/users/bharat#9614)    
+* [`GitHub`](https://github.com/brokebros404)
 <!---* [`LinkedIn`]( www.linkedin.com/in/teerthrajverma)   ---> 
 
 ## 💼 Platforms 
 * [`FIVERR`](https://www.fiverr.com/brokebros404)
-* [`UpWork`]( https://www.upwork.com/freelancers/~016df5d24fddaad771)
+* [`UpWork`](https://www.upwork.com/freelancers/~016df5d24fddaad771)
 * [`Freelancer`](https://www.freelancer.com/u/BrokeBros404?sb=t)  
 
 
