@@ -8,8 +8,8 @@
 
 ##  🤝🏻 Connect with Us  
 * [`📧 G-Mail`](mailto:brokebros404@gmail.com)   
-* [`Discord-id1`](https://www.discordapp.com/users/appu#3417)    
-* [`Discord-id2`](https://www.discordapp.com/users/bharat#9614)    
+* [`Discord-id1`](https://www.discordapp.com/users/appu#3417) appu404   
+* [`Discord-id2`](https://www.discordapp.com/users/bharat9614) bharat9614    
 * [`GitHub`](https://github.com/brokebros404)
 <!---* [`LinkedIn`]( www.linkedin.com/in/teerthrajverma)   ---> 
 
