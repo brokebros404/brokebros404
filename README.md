@@ -17,11 +17,11 @@
 - `🤝 Consultation and Guidance`: Have an idea but not sure where to start? I can provide consultation and guidance on technology choices, development strategies, and project planning.  
 
 ## 💡 Why Choose Us
-- _📌 Years of experience in web and mobile app development._  
-- _💻 Strong proficiency in the latest technologies and best practices._  
-- _📆 Dedication to meeting project deadlines and delivering high-quality results._  
-- _🎙️ Excellent communication skills for a smooth collaboration experience._  
-- _💲 Affordable rates and flexible working arrangements to suit your needs._  
+- 📌 _Years of experience in web and mobile app development._  
+- 💻 _Strong proficiency in the latest technologies and best practices._  
+- 📆 _Dedication to meeting project deadlines and delivering high-quality results._  
+- 🎙️ _Excellent communication skills for a smooth collaboration experience._  
+- 💲 _Affordable rates and flexible working arrangements to suit your needs._  
 
 ## 🤝🏻 Connect with Us  
 * [`📧 G-Mail`](mailto:brokebros404@gmail.com)   
